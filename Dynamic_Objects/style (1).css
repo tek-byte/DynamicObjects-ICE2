@@ -1,0 +1,33 @@
+.frame_design
+{
+	background:#000000;
+    font:14px/18px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	width:32%;
+}
+.control_font 
+{
+    color:#FFFFFF;
+	font:14px/18px "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+.control_font_txt
+{
+    color:#000000;
+	font:14px/18px "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+.header_font 
+{
+    color:#FFFFFF;
+	font:16px "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.button_style 
+{
+    text-align:left;
+    width:130px;
+    height:50px;
+    font:14px/18px "Trebuchet MS", Arial, Helvetica, sans-serif;
+    background:url(btn.PNG) no-repeat;
+    border: none;
+    color:#FFFFFF;
+}
